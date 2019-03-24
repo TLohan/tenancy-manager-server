@@ -1,0 +1,15 @@
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\bin\Release\netcoreapp2.1\tenancy-manager-server.deps.json
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\bin\Release\netcoreapp2.1\tenancy-manager-server.runtimeconfig.json
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\bin\Release\netcoreapp2.1\tenancy-manager-server.runtimeconfig.dev.json
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\bin\Release\netcoreapp2.1\tenancy-manager-server.dll
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\bin\Release\netcoreapp2.1\tenancy-manager-server.pdb
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.csprojAssemblyReference.cache
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.csproj.CoreCompileInputs.cache
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.RazorAssemblyInfo.cache
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.RazorAssemblyInfo.cs
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.AssemblyInfoInputs.cache
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.AssemblyInfo.cs
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.RazorTargetAssemblyInfo.cache
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.dll
+C:\Users\tloha\Documents\tenancy-manager-project\tenancy-manager-server\tenancy-manager-server\obj\Release\netcoreapp2.1\tenancy-manager-server.pdb
